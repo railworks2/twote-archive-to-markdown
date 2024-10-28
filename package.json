@@ -1,0 +1,15 @@
+{
+  "name": "twote-archive-to-markdown",
+  "version": "1.0.0",
+  "description": "Convert a twitter archive to markdown files",
+  "author": "Dave Brown <rail.works>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "moment": "^2.29.1"
+  }
+}
